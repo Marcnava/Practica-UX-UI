@@ -19,3 +19,5 @@ Estos son unos mockups del resultado:
 ![Mockup1](https://github.com/Marcnava/Practica-UX-UI/blob/main/Images/Captura%20de%20pantalla%202023-07-21%20a%20las%201.41.22.png?raw=true)
 
 ![Mockup2](https://github.com/Marcnava/Practica-UX-UI/blob/main/Images/Captura%20de%20pantalla%202023-07-21%20a%20las%201.45.16.png?raw=true)
+
+![Mockup3](https://github.com/Marcnava/Practica-UX-UI/blob/main/Images/Captura%20de%20pantalla%202023-07-21%20a%20las%201.47.24.png?raw=true)
