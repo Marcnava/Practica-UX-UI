@@ -16,4 +16,4 @@ He usado frames, frames anidados, componentes, prototipados, animaciones, grupos
 
 Estos son unos mockups del resultado:
 
-![Mockup1]([https://github.com/Marcnava/Practica-Git-y-GitHub/blob/main/Captura%20de%20pantalla%202023-07-03%20a%20las%200.49.21.png?raw=true])
+![Mockup1]([[https://github.com/Marcnava/Practica-Git-y-GitHub/blob/main/Captura%20de%20pantalla%202023-07-03%20a%20las%200.49.21.png?raw=true]](https://github.com/Marcnava/Practica-UX-UI/blob/main/Images/Captura%20de%20pantalla%202023-07-21%20a%20las%201.41.22.png)https://github.com/Marcnava/Practica-UX-UI/blob/main/Images/Captura%20de%20pantalla%202023-07-21%20a%20las%201.41.22.png)
